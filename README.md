@@ -1,9 +1,13 @@
-Protótipo do jogo Tetris
+Tetris
 
 Linguagem: Assembly x86
-Disciplina: Arquitetura de Computadores II 
+
+Disciplina: Arquitetura de Computadores II
+
 Curso: Ciência da Computação
+
 Instituição: Universidade de Caxias do Sul (UCS)
+
 Ano: 2019
 
 ![image](https://user-images.githubusercontent.com/28737900/131938993-88b82ecc-ba90-4d81-b2d5-629eb3463e2e.png)
